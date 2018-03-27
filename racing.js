@@ -1,4 +1,3 @@
-//this code was my very first 'game', written in vanilla javascript. This code was a breakthrough for me since I wrote it from scratch on my own. As someone who love video games, this is my proof that maybe I can enter this industry.
 
 var blueCar = document.getElementById('blueCar');
 blueCar.go = 0;
